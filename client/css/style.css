@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(201, 224, 230);
+}
+
+.table-font{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.centered {
+  margin: auto;
+  max-width: 800px;
+}
+
+.tweet-font {
+  font-size: 20px
+}
+
+.table-hover > tbody > tr:hover{
+  color: white;
+  background-color: rgb(80, 189, 217);
+}
